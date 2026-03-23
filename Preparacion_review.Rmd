@@ -22,10 +22,17 @@ A partir de una revisión bibliográfica en [*Web of Science*](https://clarivate
 - Hop oil, Solvent extraction.
 - Hop oil, Microwave extraction.
 
-Se introdujeron los artículos proporcionados en la web [*Tree of Science*](https://tos.coreofscience.com) para la identificación de características y referencias en común y realizar una revisión bibliográfica más concreta y con menos redundancias.
+Se introdujeron los artículos proporcionados en la web [*Tree of Science*](https://tos.coreofscience.com) para la identificación de características y referencias en común y realizar una revisión bibliográfica más concreta y con menos redundancias. La información proporcionada arrojó la categorización de aproximadamente cuarenta y cinco (45) referencias bibliográficas.
 
 ## Raíces
 
+Los artículos identificados en esta etapa son los puntos de origen para los otros trabajos analizados.
+
+### Elementos de interés
+
+#### Hop Compounds: Extraction techniques, chemical analyses, antioxidative, antimicrobial, and anticarcinogenic effects
+
+This contribution provides an overview of extraction and fractionation techniques of the most important hop compounds known for their health- promoting features.
 ## Tronco
 
 ## Ramas
