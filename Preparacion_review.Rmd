@@ -40,7 +40,80 @@ Technologies used to isolate compounds with certain biological activity and to p
 
 Several modifications of these processes have been reported with respect to the extraction procedure, the choice of an appropriate solvent and cosolvent for the isolation of the desired compound and the tunability of operating conditions. Supercritical $CO_{2}$ still remains the solvent of choice for these operations and indeed more than 90 % of supercritical fluid extractions have been performed with $CO_{2}$ as the supercritical solvent, mainly because of its easy penetration inside plant materials and high solvent power. Disadvantageously, its use is largely limited to the processinf of dry raw materials and compounds of low polarity as well as low molecular weight.
 
-**VOY PARA LA SECCIÓN 2. METHODS OF ISOLATION, CHARACTERIZATION, AND DETERMINATION OF ANTIOXIDATIVE, ANTIMICROBIAL, AND ANTIGENOTOXIC POTENTIALS OF MAIN CHEMICAL COMPOUNDS IN HOPS**
+Distillation has been traditionally used for obtaining essential oils  from hops and removing the oil fro the condensate by extraction with ether. From the US Patent 3436319A, presented by Freiherr Von Horst and Kellner, the "Thin Layer Steam Distillation of Hop Oil Extract", the process has the advantage of completely recovering the oil from the steam distillate and simultaneously producing a residual hop extract containing other components of said extract in substantially unaltered form.
+
+Application of liquid carbon dioxide ($LCO_{2}$) in the range of temperatures from 20 °C to 25 °C and in the pressure range from 50 bar to 60 bar, respectively, was for example reported in 1966 for the extraction of hops.
+
+Extraction of hops with supercritical $CO_{2}$ was performed at temperatures between 40 °C and 50 °C and pressures between 150 bar and 400 bar. Next variation included the addition of a small amount of ethanol as a solvent to the liquid carbon dioxide. The choice of an appropriate solvent represents the key factor for isolation of the compound of interest and depends on a number of factors, including dissolving power, selectivity, inflammability, volatility, and cost. Selectivity of $LCO_{2}$ is for example used to provide hop extracts free of hard resins and polyphenolic materials, this review article maily covers extraction and separation methods for isolation of acidic compounds contained in hop flowers.
+
+The range of organic species which dissolve in $LCO_{2}$ includes hop resins and aroma components, paraffins, naphthenes, olefins, alcohols, aldehydes, phenols, esters, carboxylic acids, amines and nitrogen heterocycles, aromates, ketones, esthers, amides, and nitrites, but not polyphenols.
+
+Ethanol as a polar solvent dissolves a broader range of hop components. Typically 90 % alcohol is used and the resulting extract possesses a very similar composition to the original hops. The use of organic solvents is limited due to the fact that nontoxic solvents and the maximum residue levels of several solvents int the extracted foodstuff are strictly specified. High pressure or supercritical fluid extraction is especially suitable for isolation/fractionation of valuable ingredients from natural raw materials with limited solubility in $CO_{2}$ at moderate pressures. The extracts contain nearly all essential oils in hops, as well as a sufficiently high ratio of $\alpha$-acids (humulones) and less bitter lopulones, besides other components sucha as hard resins and traces of triglycerides, waxes, chlorophylls, and inorganic salts. The main feature distinguishing $CO_{2}$ extracts from those prepared with conventional extraction ins the lack of undesired organic solvents. Therefore, supercritical $CO_{2}$ extraction has become the industrial process of choice for the production of brewery ingredients.
+
+With a higher temperature, moving towards the critical point, the solvent power increases. Optimum conditions for the extraction of a particular solute has to be therefore established experimentally by determining phase equilibria of this substance in a given solvent.
+
+Numerous studies have shown that organic solvents without the addition of water represent poor solvents for the extraction of polyphenols. Alcohol concentration thus plays a key role in polyphenol recovery.
+
+Currently solid phase microextraction is successfully applied for the characterization of aromatic properties of hops and other plant raw materials. On the contrary, for the isolation of nonvolatile compounds, solid-phase extraction, and solvent extraction are successfully used. Additionally, low-temperature levels, high yields, and a short process time represent the main advantages of ultrasound-assisted extraction. The procedure usually requires additional cooling, the main part of the applied energy is thereby transferred into heat to protect heat-sensitive substances. Due to cavitation, the cells of the plant material are highly disrupted.
+
+Supercritical fluid extraction, routinely used for the production of bitter acid extracts for the beer brewing industry, represents an effective method for the isolation of both volatile and nonvolatile compounds of hops including essential oils. Operating conditions, temperature, and pressure used for the extraction markedly affect the composition of the obtained extract. Relatively high recovery of volatile compounds is obtained at lower temperatures, whilst elevated pressures and temperatures favor high recovery of bitter acids and resinous compounds. A large group ob biologically active phenylflavonoids (prenylchalcones and prenylflavanones) remains in the plant material. Besides $CO_{2}$, water is also relatively often used as an extraction medium, mainly due to the ability to become an excellent solvent for organic compounds and a very poor solvent for inorganic salts above its critical point (314 °C, 218 atm). This means that the same solvent can be used to extract inorganic and the organic components, respectively. A method for extraction and dissolution of hop acids, including $\alpha$-acids, iso-$\alpha$-acids, $\beta$-acids, and their derivatives in aqueous media. Hop acids containing matter is mixed with one or more quaternary ammonium compounds. Quaternary ammonium salts of hop acids are thereby formed. Their specific advantage is a high solubility in (acidic) aqueous medium compared to the corresponding hop acids in the free acid form.
+
+High resolution and the ability to provide precise and accurate qualitative and quantitative data put forth gas chromatography coupled with mass spectrometry (GC-MS) analyses as a valuable tool for taxonomic studies of plants. Various phenolic compounds have been found in beer using different detectors, such as coulometric, electrochemical, and photodiode arrays; ultraviolet-visible spectrophotometry; and low-resolution mass spectrometry. In one single run, the quantities of more than two hundred compounds can be estimated by the means of capillary GC analysis.
+
+Main components of hop essential oils sucha as monoterpenes and sesquiterpenes comprising humulene, bisabolene, caryophyllene, farnesene, and elemene skeletons are commonly determined by the evaluation of the total volatile content by GC-MS. THe method requires the determination of retention parameters ($t_{R}$, calculated retention index) abd m/z values of molecular ions for selected compounds from hop essential oils.
+
+$\alpha$-, $\beta$-, and iso-$\alpha$-acids are known for their potential to oxidize. Development of simple preparative methods (which exclude other hop constituents such as polyphenols, lipids, waxes, and polysaccharides) for the bitter acid oxide fractions is essential due to their effect on beer properties as well as their potential health benefits.
+
+"General, HPLC analyses have unfortunately displayed a lack of reproducibility, the disadvantage of consumption of organic solvents and only the major compounds, i.e., the humulones and iso-humulones can be examined by this methodology".
+
+However, techniques employing high-resolution mass spectrometry are still under intense investigation, since data on identification of the phenolic profile by high-resolution mass spectrometry in analysis of hops compounds are still relatively scarce.
+
+Evaluation of the results obtained by chemometric methods provides data on phytochemical composition, which is crucial for the standardization and quality control of plant raw materials required by food or pharmaceutical industry.
+
+Among organic solvents used for Soxhlet extraction, methanol and ethanol have been proven as efficient solvents for isolation of compounds with high antimicrobial activity. On the other hand, when n-hexane is used as a solvent, the resulting extract is less effective than methanol and ethanol extracts against tested bacteria and fungi.
+
+Even though naturally occurring substances as an essential part of edible plants and their products should pose no health risk, we cannot presume that the same applies for isolated compounds in higher doses and for other formulations especially in the form of phytopharmaceutical drugs.
+
+As polyphenols represent secondary metabolites they can be found in all plant parts. However, it was shown that the ethanol extract of hop cones has a 10-times greater content of phenolic substances than the hop leaves.
+
+Essential oils represent the essence of the plant, meaning its distinctive aroma. The whole list of substances contributing to the hop aroma and consequentially to beer taste is still not completed.
+
+Clustering analysis of essential oils from 25 different hop varieties has shown that the highest amounts, accounting for 47.1 % to 89.3 % of the oils, represent $\beta$-myrcene, $\alpha$-humulene, $\beta$-caryophyllene, caryophyllene oxide, and humulene epoxide II. 
+
+The content of a specific substance in essential oils not only depends on the cultivation conditions, storage, and processing, but the extraction and analytical process importantly impact it as well.
+
+Not only fresh hops but even left-over hops from breweries can be effective at least as an insect repellent, protecting stored foods.
+
+$\beta$-caryophyllene seems to be the most important among the sesquiterpenes regarding biological effects. Several in vitro studies have shown that $\beta$-caryophyllene and its oxide possess significant anticancer activities, affecting growth and proliferation of various cancer cells. These compounds represent the future of cancer treatment with natural substances.
+
+*Table 1. Hop compounds, applied extraction methods, and described biological effects.*
+
+|Class of compounds|Compound|Extraction method|Health effects|
+|:---:|:---:|:---:|:---:|
+|$\alpha$- acids|humulone|supercritical $CO_{2}$ extraction, T = (40 - 50) °C and P = (150 - 400) bar, accereletated solvent extraction|promoting of gastric acid secretion, sedative effects, antioxidative action, apoptosis-inducing, inhibition of tumor promotion, inhibition of angiogenesis, reduction of proliferation, reduction of inflammation, antimicrobial effects|
+|iso-$\alpha$- acids| --- |supercritical $CO_{2}$ extraction, T = (40 - 50) °C and P = (150 - 400) bar, accereletated solvent extraction|promoting gastric acid secretion, antimicrobial effects, reducing inflammation|
+|Essential oils/monoterpenes|myrcene|water steam distillation, supercritical fluid extraction with $CO_{2}$|inhibition of genotoxicity, TNF-$\alpha$ inhibitor, an inhibitor of MDA-MB-231 cell invasion, good insect repellent|
+||linalool|water steam distillation, supercritical fluid extraction with $CO_{2}$|inhibition of genotoxicity|
+|Essential oils/sestquiterpenes|$\beta$-caryophyllene|supercritical fluid extraction with $CO_{2}$|affecting growth and proliferation, altering several key pathways of cancer development, analgesic effects, enhancing the efficacy of standard drugs|
+|Essential oils/sestquiterpenes|humulene|supercritical $CO_{2}$ extraction with and without ultrasound assistance, temperatures (32 - 50) °C and pressures (9.0 - 25.0) MPa|mild corticosteroid effects|
+
+Extracts obtained form brewing wastes may also serve as important dietary sources of polyphenolic compounds. Almost all the parts of the hop plant contain many nutritional and pharmaceutical properties.
+
+Some waste streams, attained during the beer brewing process, contain high amounts of sugars, lignin, and essential amino acids. Moreover, waste brewery biomass which includes spent grain, spent yeast, and spent hops/hot trub, is rich in bioactive phenolic compounds with antioxidant activity, which can be recovered by various extraction methods, including solid-liquid extraction, microwave-assisted extraction, enzymatic reactions, and alkaline reactions.
+
+In order to optimize the recovery of polyphenols, the research on novel extraction techniques (maceration, ultrasound, and microwave-assited extraction) and separation techniques in combination with alternative solvents is gaining increasing interest.
+
+The knowledge on encapsulation of extracts, including plant extracts such as hops, is still relatively scarce.
+
+#### *Humulus lupulus* - a story that begs to be told. A review
+
+In an attempt to understand these contributions, the very complex nature of the chemical composition of hops is reviewed.
+
+The importance of hops in brewing is examined and the contributions of hops to beer quality are explained.
+
+A general overview of the different areas of hop research while assessing the latest advances in hop science and their impact on brewing.
+
+##### VOY PARA LA INTRODUCCIÓN
 
 ## Tronco
 
@@ -53,3 +126,10 @@ Several modifications of these processes have been reported with respect to the 
 ### Rama 3
 
 ## Hojas
+
+
+
+
+# Análisis de trabajos futuros
+
+- Aunque los compuestos objetivo de la investigación son los aceites esenciales y los $\alpha$-acidos, un estudio similar que aborde los polifenoles podría ser de interés ya que estos han probado tener características o beneficios interesantes para la salud.
